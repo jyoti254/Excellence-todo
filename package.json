@@ -1,5 +1,6 @@
 {
   "name": "todocatalogue",
+  "homepage": "https://github.com/jyoti254/Excellence-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
