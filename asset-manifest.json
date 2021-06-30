@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jyoti254/Excellence-todo/static/css/main.76fbbad5.chunk.css",
-    "main.js": "/jyoti254/Excellence-todo/static/js/main.f0a7be45.chunk.js",
-    "main.js.map": "/jyoti254/Excellence-todo/static/js/main.f0a7be45.chunk.js.map",
-    "runtime-main.js": "/jyoti254/Excellence-todo/static/js/runtime-main.ec8f423e.js",
-    "runtime-main.js.map": "/jyoti254/Excellence-todo/static/js/runtime-main.ec8f423e.js.map",
-    "static/js/2.88ba0897.chunk.js": "/jyoti254/Excellence-todo/static/js/2.88ba0897.chunk.js",
-    "static/js/2.88ba0897.chunk.js.map": "/jyoti254/Excellence-todo/static/js/2.88ba0897.chunk.js.map",
-    "static/js/3.a9523c81.chunk.js": "/jyoti254/Excellence-todo/static/js/3.a9523c81.chunk.js",
-    "static/js/3.a9523c81.chunk.js.map": "/jyoti254/Excellence-todo/static/js/3.a9523c81.chunk.js.map",
-    "index.html": "/jyoti254/Excellence-todo/index.html",
-    "static/css/main.76fbbad5.chunk.css.map": "/jyoti254/Excellence-todo/static/css/main.76fbbad5.chunk.css.map",
-    "static/js/2.88ba0897.chunk.js.LICENSE.txt": "/jyoti254/Excellence-todo/static/js/2.88ba0897.chunk.js.LICENSE.txt"
+    "main.css": "/Excellence-todo/static/css/main.76fbbad5.chunk.css",
+    "main.js": "/Excellence-todo/static/js/main.f0a7be45.chunk.js",
+    "main.js.map": "/Excellence-todo/static/js/main.f0a7be45.chunk.js.map",
+    "runtime-main.js": "/Excellence-todo/static/js/runtime-main.0dfba69a.js",
+    "runtime-main.js.map": "/Excellence-todo/static/js/runtime-main.0dfba69a.js.map",
+    "static/js/2.88ba0897.chunk.js": "/Excellence-todo/static/js/2.88ba0897.chunk.js",
+    "static/js/2.88ba0897.chunk.js.map": "/Excellence-todo/static/js/2.88ba0897.chunk.js.map",
+    "static/js/3.a9523c81.chunk.js": "/Excellence-todo/static/js/3.a9523c81.chunk.js",
+    "static/js/3.a9523c81.chunk.js.map": "/Excellence-todo/static/js/3.a9523c81.chunk.js.map",
+    "index.html": "/Excellence-todo/index.html",
+    "static/css/main.76fbbad5.chunk.css.map": "/Excellence-todo/static/css/main.76fbbad5.chunk.css.map",
+    "static/js/2.88ba0897.chunk.js.LICENSE.txt": "/Excellence-todo/static/js/2.88ba0897.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec8f423e.js",
+    "static/js/runtime-main.0dfba69a.js",
     "static/js/2.88ba0897.chunk.js",
     "static/css/main.76fbbad5.chunk.css",
     "static/js/main.f0a7be45.chunk.js"
